@@ -1,5 +1,5 @@
 
-// import './App.css'
+import './App.css'
 import Features from './Components/Features/Features'
 import Footer from './Components/Footer/Footer'
 import Home from './Components/Home/Home'
