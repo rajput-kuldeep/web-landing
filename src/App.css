@@ -1,0 +1,8 @@
+.custom-container{
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
+}
+.custom-class{
+    scroll-snap-align: start;
+}
